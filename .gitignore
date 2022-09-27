@@ -1,0 +1,8 @@
+# Ignore a pasta zip
+zip
+
+#Ignore a pasta pdf
+pdf
+
+#Ignore os arquivos de sistema MAC OS
+.DS_store
